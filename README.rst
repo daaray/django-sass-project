@@ -1,6 +1,8 @@
 ========================
-django-twoscoops-project
+django-sass-project
 ========================
+
+*based on https://github.com/twoscoops/django-twoscoops-project*
 
 A project template for Django 1.6 (with a tag for Django 1.5).
 
