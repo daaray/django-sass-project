@@ -82,6 +82,8 @@ Depending on where you are installing dependencies:
 In development::
 
     $ pip install -r requirements/local.txt
+    $ npm install
+    $ gem install sass
 
 For production::
 
