@@ -38,3 +38,8 @@ tramp
 Thumbs.db
 Desktop.ini
 
+# Node modules
+node_modules
+
+# SASS cache
+.sass-cache
